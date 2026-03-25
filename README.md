@@ -4,6 +4,32 @@ First MCP server for live market data. Gives any AI agent real-time crypto price
 
 **Zero API keys. Zero dependencies. Works out of the box.**
 
+## In Action (live data, March 25 2026)
+
+```
+BTC: $70,741  24h: +2.3%  Vol: $39.8B  MCap: $1.42T
+ETH: $2,162   24h: +2.5%  Vol: $17.5B
+SOL: $91.70   24h: +3.2%  Vol: $3.9B
+
+Technical Analysis (BTC 30-day):
+  RSI(14): 64.85 → NEUTRAL
+  SMA(20): $69,884
+  Trend: SIDEWAYS
+  Z-score: 0.57 → NORMAL
+  Volatility: 101.62% annualized
+
+Order Book (BTC/USDT):
+  Spread: $15.17 (0.021%)
+  Best bid: $70,750.15
+  Best ask: $70,765.32
+
+Fear & Greed Index:
+  2026-03-25: 14 (Extreme Fear)
+  2026-03-24: 11 (Extreme Fear)
+
+Trending: TAO, PENGU, SIREN, HYPE, BP
+```
+
 ## Install
 
 Add to Claude Code `settings.json`:
