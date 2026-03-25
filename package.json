@@ -1,0 +1,12 @@
+{
+  "name": "mcp-market-data",
+  "version": "0.1.0",
+  "description": "MCP server for live market data. Gives AI agents real-time crypto and stock prices, OHLCV candles, order books, and market analysis. Zero API keys needed.",
+  "main": "index.js",
+  "bin": {
+    "mcp-market-data": "./index.js"
+  },
+  "type": "module",
+  "keywords": ["mcp", "mcp-server", "market-data", "crypto", "stocks", "trading", "ai-agents", "bitcoin", "prices", "finance"],
+  "license": "MIT"
+}
