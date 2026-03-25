@@ -4,6 +4,8 @@ First MCP server for live market data. Gives any AI agent real-time crypto price
 
 **Zero API keys. Zero dependencies. Works out of the box.**
 
+[![mcp-market-data MCP server](https://glama.ai/mcp/servers/ShipItAndPray/mcp-market-data/badges/card.svg)](https://glama.ai/mcp/servers/ShipItAndPray/mcp-market-data)
+
 ## In Action (live data, March 25 2026)
 
 ```
