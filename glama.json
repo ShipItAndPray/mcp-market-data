@@ -1,0 +1,8 @@
+{
+  "name": "mcp-market-data",
+  "description": "Live market data MCP server for AI agents",
+  "repository": "https://github.com/ShipItAndPray/mcp-market-data",
+  "license": "MIT",
+  "runtime": "node",
+  "command": "npx mcp-market-data"
+}
